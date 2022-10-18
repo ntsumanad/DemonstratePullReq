@@ -1,7 +1,7 @@
 <<<<<<< HEAD
 Hello World this local feature
 This is line no2 from localfeature brunch file
-
+hello this is shubha
 Hello World this is master.
 This is line no2 from master brunch file
 =======
